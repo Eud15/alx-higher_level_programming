@@ -1,3 +1,2 @@
-0x02. Python - import & modules
- By Eudoxie ABOUTA
-
+0x02-python-import_modules
+By Eudoxie ABOUTA
